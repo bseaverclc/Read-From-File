@@ -9,6 +9,7 @@ public class Main
     File class constructor throws an exception if it can't find the File*/
     public static void main(String[] args) throws Exception 
     { 
+      // Adding a comment
         // pass the path to the file as a parameter if not in same place as project
         //File file =  new File("C:\\Users\\pankaj\\Desktop\\test.txt"); 
         // If the text file is in the same folder as this project
